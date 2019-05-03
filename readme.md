@@ -22,7 +22,7 @@ Breadboard
 
 αντιστάσεις 220 ohm και 10Κ ohm
 
-LDR  photoregistor
+LDR  photoregistor αισθητήρας φωτός
 
 USB καλώδιο για τη σύνδεση του arduino στον ΗΥ
 
