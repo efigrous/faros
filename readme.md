@@ -18,9 +18,11 @@ Breadboard
 
 1  LED (λαμπάκι)
 
-Καλώδια κ αντιστάσεις
+Καλώδια  
 
-Photocell - photoregistor
+αντιστάσεις 220 ohm και 10Κ ohm
+
+LDR  photoregistor
 
 USB καλώδιο για τη σύνδεση του arduino στον ΗΥ
 
